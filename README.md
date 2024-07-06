@@ -20,8 +20,8 @@
 
 ### 🌐 Connect with me 
 <p align="left">
-<a href="https://linkedin.com/in/navneet-deshta-14662b259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navneet-deshta-14662b259/" height="30" width="40" /></a>
-<code><a href="mailto:girishthatte35@gmail.com"><img width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
+<code><a href="https://linkedin.com/in/navneet-deshta-14662b259/"><img width="40px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a></code>
+<code><a href="mailto:navneetdeshtaa@gmail.com"><img width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
 <a href="https://twitter.com/deshtanavn29518" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deshtanavn29518" height="30" width="40" /></a>
 <a href="https://fb.com/naavneet.deshta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="naavneet.deshta" height="30" width="40" /></a>
 <a href="https://instagram.com/navneet.deshta?igsh=ejy5ntk5bgk1ethq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="navneet.deshta?igsh=ejy5ntk5bgk1ethq" height="30" width="40" /></a>
