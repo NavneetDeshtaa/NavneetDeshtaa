@@ -1,18 +1,16 @@
 <h1 align="center">Hi there, Welcome to my Github Profile!👋</h1>
-<h3 align="start">I am Navneet Deshta currently pursuing B TECH. degree from NIT, HAMIRPUR</h3>
+<h3 align="start">I am Navneet Deshta -</h3>
+- 🎓 Currently pursuing B TECH. degree from NIT, HAMIRPUR.
+- 😄 My areas of interest are Frontend Developement, Backend Development, Data Structures and Algorithms and Software Development.
 
 ### 🔧 Languages and Frameworks:
 <code><img width="40px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/4x/000000/python.png" title="Python"/></code>
-<code><img width="40px" src="https://img.icons8.com/?id=13679&format=png" title ="Java"/></code>
 <code><img width="40px" src="https://img.icons8.com/plasticine/100/000000/react.png" title="ReactJS"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/8x/000000/nodejs.png" title="NodeJS"/></code>
-<code><img width="40px" src="https://img.icons8.com/?id=ewGOClUtmFX4&format=png" title="Flask"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/javascript.png" title="Javascript"/></code>
 <code><img width="40px" src="https://img.icons8.com/dusk/64/000000/database-restore.png" title="Database"/></code>
-<code><img width="40px" src="https://img.icons8.com/ios/4x/00758f/mysql-logo.png" title="MySQL"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/8x/000000/mongodb.png" title="MongoDB"/></code>
 <code><img width="40px" src="https://img.icons8.com/fluent/8x/github.png" title="GitHub"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/git.png" title="Git"/></code>
