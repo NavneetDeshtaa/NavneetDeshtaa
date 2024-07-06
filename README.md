@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Navneet Deshta</h1>
-<h3 align="center">Currently , pursuing my BTECH. from NIT HAMIRPUR</h3>
+<h1 align="center">Hi there, Welcome to my Github Profile!👋</h1>
+<h3 align="start">I am Navneet Deshta currently pursuing B TECH. degree from NIT, HAMIRPUR</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -9,7 +9,20 @@
 <a href="https://instagram.com/navneet.deshta?igsh=ejy5ntk5bgk1ethq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="navneet.deshta?igsh=ejy5ntk5bgk1ethq" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 🔧 Languages and Frameworks:
+<code><img width="40px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/4x/000000/python.png" title="Python"/></code>
+<code><img width="40px" src="https://img.icons8.com/?id=13679&format=png" title ="Java"/></code>
+<code><img width="40px" src="https://img.icons8.com/plasticine/100/000000/react.png" title="ReactJS"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/8x/000000/nodejs.png" title="NodeJS"/></code>
+<code><img width="40px" src="https://img.icons8.com/?id=ewGOClUtmFX4&format=png" title="Flask"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/000000/javascript.png" title="Javascript"/></code>
+<code><img width="40px" src="https://img.icons8.com/dusk/64/000000/database-restore.png" title="Database"/></code>
+<code><img width="40px" src="https://img.icons8.com/ios/4x/00758f/mysql-logo.png" title="MySQL"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/8x/000000/mongodb.png" title="MongoDB"/></code>
+<code><img width="40px" src="https://img.icons8.com/fluent/8x/github.png" title="GitHub"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/git.png" title="Git"/></code>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=navneetdeshtaa&show_icons=true&locale=en&layout=compact" alt="navneetdeshtaa" /></p>
