@@ -7,7 +7,7 @@
 
 ### 🔧 Languages and Frameworks:
 <p align="center">
-  <code><img width="42px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/></code><br>
+  <code><img width="42px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/></code>
   <code><img width="42px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
   <code><img width="42px" src="https://img.icons8.com/plasticine/100/000000/react.png" title="ReactJS"/></code>
   <code><img width="42px" src="https://img.icons8.com/color/8x/000000/nodejs.png" title="NodeJS"/></code>
