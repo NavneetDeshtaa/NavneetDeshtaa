@@ -6,7 +6,7 @@
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ### 🔧 Languages and Frameworks:
-<p>
+<p align="center">
   <code><img width="42px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/></code>
   <code><img width="42px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
   <code><img width="42px" src="https://img.icons8.com/plasticine/100/000000/react.png" title="ReactJS"/></code>
