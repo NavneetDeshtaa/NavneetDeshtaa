@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, Welcome to my Github Profile!👋</h1>
-<h3 align="start">I am Navneet Deshta -</h3>
-<h4>- 🎓 Currently pursuing B TECH. degree from NIT, HAMIRPUR.</h4>
-<h4>- 😄 My areas of interest are Frontend Development, Backend Development, Data Structures and Algorithms, and Software Development.</h4>
+<h2 align="start">I am Navneet Deshta -</h2>
+<h3>- 🎓 Currently pursuing B TECH. degree from NIT, HAMIRPUR.</h3>
+<h3>- 🖥️ My areas of interest are Frontend Development, Backend Development, Data Structures and Algorithms, and Software Development.</h3>
 
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
