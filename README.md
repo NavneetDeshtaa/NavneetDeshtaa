@@ -3,8 +3,6 @@
 <h3>- 🎓 Currently pursuing B TECH. degree from NIT, HAMIRPUR.</h3>
 <h3>- 🖥️ My areas of interest are Frontend Development, Backend Development, Data Structures and Algorithms, and Software Development.</h3>
 
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-
 ### 🔧 Languages and Frameworks:
 <p align="center">
   <code><img width="42px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/></code>
