@@ -17,7 +17,6 @@
   <code><img width="42px" src="https://img.icons8.com/color/2x/git.png" title="Git"/></code>
 </p>
 
-
 ### 🌐 Connect with me  
 <p align="center">
   <a href="https://linkedin.com/in/navneet-deshta-14662b259/"><img width="40px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
