@@ -1,91 +1,41 @@
-# Hi, I'm Navneet Deshta.
-
-Software Engineer interested in building scalable products, distributed systems, and AI-powered applications.
-
-Currently focused on backend engineering, modern web technologies, and machine learning while continuously improving my understanding of software architecture and system design.
-
----
-
-## About
-
-I enjoy designing software that is reliable, maintainable, and solves real problems.
-
-My interests span across
-
-* Backend Engineering
-* Full Stack Development
-* Artificial Intelligence & Machine Learning
-* Distributed Systems
-* System Design
-* Data Structures & Algorithms
-
----
-
-## Technologies
-
-**Languages**
-
-`C++` • `Python` • `JavaScript` • `TypeScript` • `C#`
-
-**Frontend**
-
-`React` • `HTML` • `CSS` • `Bootstrap`
-
-**Backend**
-
-`Node.js` • `Express` • `.NET`
-
-**Database**
-
-`MongoDB` • `MySQL`
-
-**Tools**
-
-`Git` • `GitHub` • `Docker` • `Postman`
-
----
-
-## Selected Projects
-
-**DevDock IDE**
-
-A browser-based development environment featuring authentication, file management, and an interactive coding experience.
-
----
-
-**PHOTO-LYTICS**
-
-An AI-powered SaaS platform that transforms text prompts into generated images with secure authentication and integrated payments.
-
----
-
-**Community Platform**
-
-A social platform inspired by LinkedIn with authentication, user profiles, and community-driven discussions.
-
----
-
-## Current Focus
-
-* Building production-quality software
-* Machine Learning & Deep Learning
-* Backend Systems
-* Cloud & DevOps
-* Open Source
-
----
-
-## GitHub
+<h1 align="center">Navneet Deshta</h1>
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=navneetdeshtaa&show_icons=true&hide_border=true&theme=transparent"/>
+Software Engineer · Full Stack Development · Artificial Intelligence
+</p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navneetdeshtaa&layout=compact&hide_border=true&theme=transparent"/>
+<p align="center">
+Building software with a focus on scalable backend systems, intuitive user experiences, and practical applications of AI.
 </p>
 
 ---
 
-## Connect
+### Profile
 
-* LinkedIn — https://linkedin.com/in/navneet-deshta-14662b259
-* Email — [navneetdeshtaa@gmail.com](mailto:navneetdeshtaa@gmail.com)
+I'm interested in engineering systems that are simple, reliable, and built to last. Most of my work revolves around modern web technologies, backend architecture, and machine learning, with an emphasis on writing maintainable software and continuously improving engineering fundamentals.
+
+---
+
+### Stack
+
+|                                                         |
+| ------------------------------------------------------- |
+| **Languages** — C++, Python, JavaScript, TypeScript, C# |
+| **Frontend** — React, HTML, CSS, Bootstrap              |
+| **Backend** — Node.js, Express, .NET                    |
+| **Data** — MongoDB, MySQL                               |
+| **Tools** — Git, Docker, Postman                        |
+
+---
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=navneetdeshtaa&show_icons=true&hide_border=true&theme=transparent" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navneetdeshtaa&layout=compact&hide_border=true&theme=transparent" height="165"/>
+</p>
+
+---
+
+<p align="center">
+<a href="https://linkedin.com/in/navneet-deshta-14662b259">LinkedIn</a> •
+<a href="mailto:navneetdeshtaa@gmail.com">Email</a>
+</p>
