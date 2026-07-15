@@ -1,72 +1,91 @@
-# <h1 align="center">Hi 👋, I'm Navneet Deshta</h1>
+# Hi, I'm Navneet Deshta.
 
-<h3 align="center">
-Software Engineer • Full Stack Developer
-</h3>
+Software Engineer interested in building scalable products, distributed systems, and AI-powered applications.
 
-## 🚀 About Me
+Currently focused on backend engineering, modern web technologies, and machine learning while continuously improving my understanding of software architecture and system design.
 
-* 💻 Software Engineer passionate about building scalable products
-* 🎓 B.Tech from **NIT Hamirpur**
-* 🌱 Currently learning **Machine Learning, Deep Learning, System Design, and Cloud**
-* 💼 Experienced with **React, TypeScript, C#, .NET, Dynamics 365, Power Platform, Node.js, and MongoDB**
-* 🧩 Strong interest in **Software Engineering, Backend Development, AI/ML, and Data Structures & Algorithms**
+---
 
-## 🛠️ Tech Stack
+## About
 
-### Languages
+I enjoy designing software that is reliable, maintainable, and solves real problems.
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,js,ts,cs,python" />
-</p>
+My interests span across
 
-### Frontend
+* Backend Engineering
+* Full Stack Development
+* Artificial Intelligence & Machine Learning
+* Distributed Systems
+* System Design
+* Data Structures & Algorithms
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind,vite" />
-</p>
+---
 
-### Backend
+## Technologies
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" />
-</p>
+**Languages**
 
-### Database
+`C++` • `Python` • `JavaScript` • `TypeScript` • `C#`
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+**Frontend**
 
-### Tools & Technologies
+`React` • `HTML` • `CSS` • `Bootstrap`
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
-</p>
+**Backend**
 
+`Node.js` • `Express` • `.NET`
 
-## 📈 GitHub Stats
+**Database**
+
+`MongoDB` • `MySQL`
+
+**Tools**
+
+`Git` • `GitHub` • `Docker` • `Postman`
+
+---
+
+## Selected Projects
+
+**DevDock IDE**
+
+A browser-based development environment featuring authentication, file management, and an interactive coding experience.
+
+---
+
+**PHOTO-LYTICS**
+
+An AI-powered SaaS platform that transforms text prompts into generated images with secure authentication and integrated payments.
+
+---
+
+**Community Platform**
+
+A social platform inspired by LinkedIn with authentication, user profiles, and community-driven discussions.
+
+---
+
+## Current Focus
+
+* Building production-quality software
+* Machine Learning & Deep Learning
+* Backend Systems
+* Cloud & DevOps
+* Open Source
+
+---
+
+## GitHub
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=navneetdeshtaa&show_icons=true&theme=tokyonight" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=navneetdeshtaa&show_icons=true&hide_border=true&theme=transparent"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navneetdeshtaa&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=navneetdeshtaa&theme=tokyonight" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navneetdeshtaa&layout=compact&hide_border=true&theme=transparent"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
+## Connect
 
-<p align="left">
-<a href="https://www.linkedin.com/in/navneet-deshta-14662b259">
-<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
-</a>
-
-<a href="mailto:navneetdeshtaa@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
-</a>
-</p>
+* LinkedIn — https://linkedin.com/in/navneet-deshta-14662b259
+* Email — [navneetdeshtaa@gmail.com](mailto:navneetdeshtaa@gmail.com)
