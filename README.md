@@ -35,7 +35,7 @@ Software Engineer • Full Stack Developer
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,dataverse" />
 </p>
 
 ### Tools & Technologies
