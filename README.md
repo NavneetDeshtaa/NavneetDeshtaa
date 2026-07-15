@@ -1,26 +1,6 @@
 <!-- ========================= HEADER ========================= -->
 
 <h1 align="center">Hi, I'm Navneet Deshta 👋</h1>
-
-<p align="center">
-  Full Stack Developer • Building scalable software and solving real-world problems
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/navneet-deshta-14662b259">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/navneetdeshta/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:navneetdeshtaa@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-
 ---
 
 # 👨‍💻 About Me
@@ -30,7 +10,6 @@
 - 🚀 Passionate about Full Stack Development, System Design, and building scalable applications
 - 🛠️ Experienced with MERN Stack, .NET ecosystem, REST APIs, Cloud, and Developer Tools
 - 🧠 Constantly learning Data Structures & Algorithms, AI/ML, and Software Engineering practices
-
 
 ---
 
