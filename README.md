@@ -1,29 +1,133 @@
-<h1 align="center">Hi there, Welcome to my Github Profile! 👋</h1>
-<h2 align="start">I am Navneet Deshta -</h2>
-<h3>- 🎓 Currently pursuing B TECH. degree from NIT, HAMIRPUR.</h3>
-<h3>- 🖥️ My areas of interest are Frontend Development, Backend Development, Data Structures and Algorithms, and Software Development.</h3>
+# <h1 align="center">Hi 👋, I'm Navneet Deshta</h1>
 
-### 🔧 Languages and Frameworks:
+<h3 align="center">
+Software Engineer • Full Stack Developer • AI/ML Enthusiast
+</h3>
+
 <p align="center">
-  <code><img width="42px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/></code>
-  <code><img width="42px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
-  <code><img width="42px" src="https://img.icons8.com/plasticine/100/000000/react.png" title="ReactJS"/></code>
-  <code><img width="42px" src="https://img.icons8.com/color/8x/000000/nodejs.png" title="NodeJS"/></code>
-  <code><img width="42px" src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML"/></code>
-  <code><img width="42px" src="https://img.icons8.com/color/48/000000/javascript.png" title="Javascript"/></code>
-  <code><img width="42px" src="https://img.icons8.com/color/48/000000/typescript.png" title="Typescript"/></code>
-  <code><img width="42px" src="https://img.icons8.com/color/8x/000000/mongodb.png" title="MongoDB"/></code>
-  <code><img width="42px" src="https://img.icons8.com/fluent/8x/github.png" title="GitHub"/></code>
-  <code><img width="42px" src="https://img.icons8.com/color/2x/git.png" title="Git"/></code>
+Building scalable web applications, exploring AI/ML, and continuously improving my problem-solving skills.
 </p>
 
-### 🌐 Connect with me  
-<p align="center">
-  <a href="https://linkedin.com/in/navneet-deshta-14662b259/"><img width="40px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:navneetdeshtaa@gmail.com"><img width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/deshtanavn29518" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deshtanavn29518" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://fb.com/naavneet.deshta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="naavneet.deshta" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/navneet.deshta?igsh=ejy5ntk5bgk1ethq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="navneet.deshta?igsh=ejy5ntk5bgk1ethq" height="30" width="40" /></a>
+---
+
+## 🚀 About Me
+
+* 💻 Software Engineer passionate about building scalable products
+* 🎓 B.Tech in Electronics & Communication Engineering from **NIT Hamirpur**
+* 🌱 Currently learning **Machine Learning, Deep Learning, System Design, and Cloud**
+* 💼 Experienced with **React, TypeScript, C#, .NET, Dynamics 365, Power Platform, Node.js, and MongoDB**
+* 🧩 Strong interest in **Software Engineering, Backend Development, AI/ML, and Data Structures & Algorithms**
+* ⚡ Always learning new technologies and building real-world projects
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,js,ts,cs,python" />
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=navneetdeshtaa&show_icons=true&locale=en&layout=compact&card_width=1000" alt="navneetdeshtaa" /></p>
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind,vite" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
+</p>
+
+---
+
+# 📌 Featured Projects
+
+### 💻 DevDock IDE
+
+A browser-based online IDE with authentication and code execution support.
+
+**Tech Stack:** React • Node.js • Express • MongoDB • JWT
+
+---
+
+### 🎨 PHOTO-LYTICS
+
+AI-powered SaaS application that generates images from text prompts with secure authentication and payment integration.
+
+**Tech Stack:** React • Node.js • MongoDB • Razorpay
+
+---
+
+### 🛒 Eclypse
+
+A modern e-commerce frontend built from a professional Figma design.
+
+**Tech Stack:** React • Bootstrap
+
+---
+
+### 🌐 Community Platform
+
+A LinkedIn-inspired community platform featuring authentication, posting, and user profiles.
+
+**Tech Stack:** React • Express • MongoDB
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=navneetdeshtaa&show_icons=true&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navneetdeshtaa&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=navneetdeshtaa&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/navneet-deshta-14662b259">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+</a>
+
+<a href="mailto:navneetdeshtaa@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+</a>
+</p>
+
+---
+
+## 💡 Current Focus
+
+* 🤖 Artificial Intelligence & Machine Learning
+* ⚙️ Backend Engineering
+* 🧠 Data Structures & Algorithms
+* 🏗️ System Design
+* ☁️ Cloud & DevOps
+* 🚀 Building production-ready applications
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+</p>
