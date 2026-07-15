@@ -4,8 +4,8 @@
 
 # 👨‍💻 About Me
 
-- 🎓 B.Tech Electronics & Communication Engineering @ NIT Hamirpur
-- 💻 Software Engineer Intern @ BlackRock | Dynamics Solution Centre (Aladdin Platform)
+- 🎓 B.Tech (ECE) @ NIT Hamirpur
+- 💻 Software Engineer @ BlackRock
 - 🚀 Passionate about Full Stack Development, System Design, and building scalable applications
 - 🛠️ Experienced with MERN Stack, .NET ecosystem, REST APIs, Cloud, and Developer Tools
 - 🧠 Constantly learning Data Structures & Algorithms, AI/ML, and Software Engineering practices
