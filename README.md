@@ -1,7 +1,6 @@
 <!-- ========================= HEADER ========================= -->
 
 <h1 align="center">Hi, I'm Navneet Deshta 👋</h1>
----
 
 # 👨‍💻 About Me
 
