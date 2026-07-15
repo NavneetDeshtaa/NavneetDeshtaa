@@ -35,7 +35,7 @@ Software Engineer • Full Stack Developer
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,dataverse" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ### Tools & Technologies
@@ -44,41 +44,6 @@ Software Engineer • Full Stack Developer
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
 </p>
 
----
-
-# 📌 Featured Projects
-
-### 💻 DevDock IDE
-
-A browser-based online IDE with authentication and code execution support.
-
-**Tech Stack:** React • Node.js • Express • MongoDB • JWT
-
----
-
-### 🎨 PHOTO-LYTICS
-
-AI-powered SaaS application that generates images from text prompts with secure authentication and payment integration.
-
-**Tech Stack:** React • Node.js • MongoDB • Razorpay
-
----
-
-### 🛒 Eclypse
-
-A modern e-commerce frontend built from a professional Figma design.
-
-**Tech Stack:** React • Bootstrap
-
----
-
-### 🌐 Community Platform
-
-A LinkedIn-inspired community platform featuring authentication, posting, and user profiles.
-
-**Tech Stack:** React • Express • MongoDB
-
----
 
 ## 📈 GitHub Stats
 
@@ -104,21 +69,4 @@ A LinkedIn-inspired community platform featuring authentication, posting, and us
 <a href="mailto:navneetdeshtaa@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
 </a>
-</p>
-
----
-
-## 💡 Current Focus
-
-* 🤖 Artificial Intelligence & Machine Learning
-* ⚙️ Backend Engineering
-* 🧠 Data Structures & Algorithms
-* 🏗️ System Design
-* ☁️ Cloud & DevOps
-* 🚀 Building production-ready applications
-
----
-
-<p align="center">
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 </p>
