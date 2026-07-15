@@ -59,10 +59,20 @@ Full Stack Developer • Building software that solves real problems
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=navneetdeshtaa&show_icons=true&hide_border=true&theme=transparent"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navneetdeshtaa&layout=compact&hide_border=true&theme=transparent"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=navneetdeshtaa&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"
+    width="48%"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=navneetdeshtaa&layout=compact&hide_border=true&theme=transparent"
+    width="48%"
+  />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://streak-stats.demolab.com?user=navneetdeshtaa&hide_border=true&theme=transparent"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=navneetdeshtaa&hide_border=true&theme=transparent"
+    width="98%"
+  />
 </p>
