@@ -1,25 +1,16 @@
 # <h1 align="center">Hi 👋, I'm Navneet Deshta</h1>
 
 <h3 align="center">
-Software Engineer • Full Stack Developer • AI/ML Enthusiast
+Software Engineer • Full Stack Developer
 </h3>
-
-<p align="center">
-Building scalable web applications, exploring AI/ML, and continuously improving my problem-solving skills.
-</p>
-
----
 
 ## 🚀 About Me
 
 * 💻 Software Engineer passionate about building scalable products
-* 🎓 B.Tech in Electronics & Communication Engineering from **NIT Hamirpur**
+* 🎓 B.Tech from **NIT Hamirpur**
 * 🌱 Currently learning **Machine Learning, Deep Learning, System Design, and Cloud**
 * 💼 Experienced with **React, TypeScript, C#, .NET, Dynamics 365, Power Platform, Node.js, and MongoDB**
 * 🧩 Strong interest in **Software Engineering, Backend Development, AI/ML, and Data Structures & Algorithms**
-* ⚡ Always learning new technologies and building real-world projects
-
----
 
 ## 🛠️ Tech Stack
 
