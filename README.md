@@ -3,8 +3,6 @@
 <h1 align="center">Hi, I'm Navneet Deshta 👋</h1>
 
 # 👨‍💻 About Me
-
-- 🎓 B.Tech (ECE) @ NIT Hamirpur
 - 💻 Software Engineer @ BlackRock
 - 🚀 Passionate about Full Stack Development, System Design, and building scalable applications
 - 🛠️ Experienced with MERN Stack, .NET ecosystem, REST APIs, Cloud, and Developer Tools
