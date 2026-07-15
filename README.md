@@ -34,44 +34,31 @@
 
 ---
 
-# 💻 Tech Stack
-
-### 🧩 Programming Languages
+# 🛠️ Languages and Frameworks
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,typescript,cs" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,cs,html,css,react,bootstrap,tailwind,nodejs,express,dotnet,mongodb,mysql,sqlite,docker,azure,git,github,postman,vscode" />
 </p>
 
-
-### 🌐 Web Technologies
+# 🌐 Connect with me
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,dotnet,html,css" />
+  <a href="mailto:navneetdeshtaa@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/navneet-deshta-14662b259">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/navneetdeshta/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/navneetdeshtaa">
+    <img src="https://skillicons.dev/icons?i=github" width="45"/>
+  </a>
 </p>
-
-
-### 🗄️ Databases
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
-</p>
-
-
-### ☁️ Cloud & Developer Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,docker,azure,postman,vscode" />
-</p>
-
-
-### ⚡ Frameworks & Platforms
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=vite,bootstrap,tailwind" />
-</p>
-
-
----
 
 # 📊 GitHub Statistics
 
