@@ -35,12 +35,3 @@
     <img src="https://skillicons.dev/icons?i=github" width="45"/>
   </a>
 </p>
-
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=navneetdeshtaa&hide_border=true&theme=transparent"
-    width="98%"
-  />
-</p>
