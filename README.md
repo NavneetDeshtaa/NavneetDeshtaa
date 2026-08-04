@@ -3,10 +3,10 @@
 <h1 align="center">Hi, I'm Navneet Deshta 👋</h1>
 
 # 👨‍💻 About Me
-- 💻 Software Engineer @ BlackRock
-- 🚀 Passionate about Full Stack Development, System Design, and building scalable applications
-- 🛠️ Experienced with MERN Stack, .NET ecosystem, REST APIs, Cloud, and Developer Tools
-- 🧠 Constantly learning Data Structures & Algorithms, AI/ML, and Software Engineering practices
+-  Software Engineer @ BlackRock
+-  Passionate about Full Stack Development, System Design, and building scalable applications
+-  Experienced with MERN Stack, .NET ecosystem, REST APIs, Cloud, and Developer Tools
+-  Constantly learning Data Structures & Algorithms, AI/ML, and Software Engineering practices
 
 ---
 
